@@ -1,0 +1,6 @@
+{
+    "binance_api_key": "your_api_key",
+    "binance_secret_key": "your_api_secret",
+    "okex_api_key": "your_api_key",
+    "okex_secret_key":"your_api_secret"
+}

@@ -1,0 +1,2 @@
+#INSTALLED REQUIRED PACKAGE RUN BELOW COMMAND 
+pip freeze > requirements.txt
